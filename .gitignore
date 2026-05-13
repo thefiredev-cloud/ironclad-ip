@@ -48,3 +48,9 @@ data/redis/
 tmp/
 temp/
 .cache/
+
+# Build output
+.next/
+/.next/
+/out/
+*.tsbuildinfo
